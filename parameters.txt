@@ -1,0 +1,16 @@
+- Tamanho da População
+50
+- Tamanho do Ring
+5
+- Probabilidade de Cruzamento
+0.7
+- Probabilidade de Mutação
+0.03
+- Desvio-Padrão
+0.01
+- Palavra-Alvo
+52.547, 72.15, 53.694, 57.771, 115.88, 105.59, 75.368, 126.02, 52.756, 85.1, 80.525, 111.24, 113.62, 64.95, 89.181, 85.647, 101.71, 106.75, 110.37, 72.082, 104.38, 102.41, 63.009, 59.52, 89.869, 126.78, 77.231, 96.821, 67.905, 110.1
+- Quantidade primeiros caracteres da palavra-alvo se deseja ler
+10
+- Número de Gerações
+3000
